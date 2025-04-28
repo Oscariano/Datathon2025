@@ -2,7 +2,7 @@
 
 Welcome to our submission for the [Datathon 2025](https://web.archive.org/web/20250421124732/https://datathon2025.webflow.io/) (archived from [original](https://datathon2025.webflow.io/)) hosted by DubsTech. 
 
-Our team comprises of Adelin Ma, Kevin Seng and Oscar Song and the theme that we would be tackling today is Retail: Accelerating the Sales of the Modecraft Ecommerce Store.
+Our team __**"Garlic Fruits"**__ comprises of Adelin Ma, Kevin Seng and Oscar Song and the theme that we would be tackling today is Retail: Accelerating the Sales of the Modecraft Ecommerce Store.
 
 ## Prompt: Retail: Accelerating the Sales of the Modecraft Ecommerce Store
 
